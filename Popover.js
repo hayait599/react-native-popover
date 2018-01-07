@@ -1,6 +1,7 @@
 'use strict';
 
-import React, {PropTypes} from 'react';
+import React from 'react';
+import PropTypes from 'PropTypes';
 import {StyleSheet, Dimensions, Animated, Text, TouchableWithoutFeedback, View} from 'react-native';
 import _ from 'underscore';
 
